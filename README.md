@@ -20,7 +20,7 @@ source can be found here: https://github.com/LisaStoz/grunt-guest-talk/tree/gh-p
 ## Handout
 
 Handout is used as a starting point for live demonstration of grunt.
-It can be downloaded here: (link here)
+It can be downloaded here: https://github.com/LisaStoz/grunt-guest-talk/tree/handout
 
 During the demo initial handout gets modified and in the end it should be looking
-like this: (link here)
+like this: https://github.com/LisaStoz/grunt-guest-talk/tree/final
