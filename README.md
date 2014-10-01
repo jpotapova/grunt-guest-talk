@@ -4,6 +4,7 @@
 
 * what is it, what are the benefits
 * how to install, configure, use grunt
+* some additional thoughts...
 
 ## Slides
 
