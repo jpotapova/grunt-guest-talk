@@ -13,6 +13,9 @@ live demonstration of grunt.
 
 Slides can be found here: http://lisastoz.github.io/grunt-guest-talk
 
+Slides are built with [Reveal.js](https://github.com/hakimel/reveal.js/),
+source can be found here: https://github.com/LisaStoz/grunt-guest-talk/tree/gh-pages
+
 
 ## Handout
 
