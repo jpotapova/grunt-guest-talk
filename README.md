@@ -24,3 +24,8 @@ It can be downloaded here: https://github.com/LisaStoz/grunt-guest-talk/tree/han
 
 During the demo initial handout gets modified and in the end it should be looking
 like this: https://github.com/LisaStoz/grunt-guest-talk/tree/final
+
+## Explanation
+
+I wrote a blog post that is quite close to what I talked about during a demo (a bit simplified):
+http://www.jpotapova.info/blog/getting-started-with-grunt/
